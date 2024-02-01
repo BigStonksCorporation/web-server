@@ -6,7 +6,7 @@ $dbuser = "bfuser";
 $dbpassw = '';
 $webhost = '10.212.168.112';
 $weburl = 'http://' . $webhost ;
-$frontpage_limit = "1500";
+$frontpage_limit = "1000";
 $use_activity_cutoff_days = 14;
 $use_fast_random_search = 1;
 ?>
