@@ -15,4 +15,4 @@
 #  fi
 # fi
 chmod 777 /var/www/html/images
-/usr/sbin/apache2ctl -D FOREGROUND -k start
+/usr/sbin/apache2ctl -D FOREGROUND
